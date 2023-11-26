@@ -11,7 +11,7 @@ const noBtn = document.querySelector(".no-btn");
 // });
 
 noBtn.addEventListener("click", () => {
-  question.innerHTML = "Knew it!";
+  question.innerHTML = "Knew it! You never will be able to😜";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
